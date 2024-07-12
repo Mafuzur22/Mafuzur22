@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mafuzur
-👻 It is my goal to learn any and everything I can. But I have some preference in technological subjects like 🤖 
+👻 It is my goal to learn any and everything I can. But I prefere technical subjects 🤖 
 ---------------------------------------------------
 -Artificial Intelligence (AI),
 -Web Development (HTML, CSS, JavaScript, Django),
 -Python Scripting,
--Mechin Learning (Python, Pytorch),
+-Mechine Learning (Python, Pytorch),
 ---------------------------------------------------
 
 Contact me if you need 👽
