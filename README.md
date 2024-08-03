@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mafuzur
-👻 It is my goal to learn any and everything I can. But I prefere technical subjects 🤖 
+👻 It is my goal to learn any and everything I can 🤖 
 ---------------------------------------------------
 -Artificial Intelligence (AI),
 -Web Development (HTML, CSS, JavaScript, Django),
