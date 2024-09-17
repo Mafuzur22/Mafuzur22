@@ -10,7 +10,12 @@
 Contact me if you need 👽
 
 Email- mfrahaman22@gmail.com
+
 Facebook- https://www.facebook.com/Lonley.MaFuz
+
+Github- https://github.com/Mafuzur22/Mafuzur22/edit/main/README.md
+
+Webpage- https://mafuzur22.github.io/getaintro/
 
 See ya💀
 <!---
