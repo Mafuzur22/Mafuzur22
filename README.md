@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Mafuzur<br>👻 It is my goal to learn any and everything I can 🤖
+- 👋 Hi, I’m @mafuzur22<br>👻 It is my goal to learn any and everything I can 🤖
 - 
 - I am an inspiring Python Developer. I like to work in Machine Learning Field. But I crave knowledge about anything that peaks my curiosity.
 - 
