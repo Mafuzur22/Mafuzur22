@@ -5,7 +5,7 @@
 - 
 - I am also a Django Web Developer who works in Web App Development.
 
-And from where I stand I see Django + ML as the present and future of web apps. So I,m cool :)
+And from where I stand I see Django + ML as the future of web applications. So yeah I'm great :)
 
 <br>Webpage- https://mafuzur22.github.io/getaintro/<br><br>See ya💀
 
